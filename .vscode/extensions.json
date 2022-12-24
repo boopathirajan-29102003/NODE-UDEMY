@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "johnpapa.vscode-peacock",
+        "kamikillerto.vscode-colorize",
+        "streetsidesoftware.code-spell-checker",
+        "johnpapa.angular2",
+        "formulahendry.auto-rename-tag",
+        "hnw.vscode-auto-open-markdown-preview",
+        "bracketpaircolordlw.bracket-pair-color-dlw",
+        "dzhavat.bracket-pair-toggler",
+        "expresssnippets.vscode-express-snippets",
+        "compulim.vscode-express",
+        "visualstudioexptteam.vscodeintellicode",
+        "xabikos.javascriptsnippets",
+        "cmstead.js-codeformer",
+        "cmstead.jsrefactor"
+    ]
+}
